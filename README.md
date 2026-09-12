@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Shariff
 
-<!--
-**skbadulshariff-oss/skbadulshariff-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Building Games using Pygame
+
+🤖 Interested in AI and Machine Learning
+
+## 🚀 Projects
+
+- 🗼 Tower Of Hanoi AI
+- 🚀 Galaxy Survivor
+- 🎮 More Python projects coming soon...
+
+## 🛠 Languages
+
+- Python
+- C
+- SQL
+
+## 📫 Connect with me
+
+GitHub:
+https://github.com/skbadulshariff-oss
